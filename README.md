@@ -13,11 +13,11 @@ Shortcut keys
 Screenshots
 -----------
 <p align="center">
-  <img src="screenshots/1.png"/>
+  <img src="screenshot_1.jpg"/>
 </p>
 <p align="center">
-  <img src="screenshots/2.png"/>
+  <img src="screenshot_2.jpg"/>
 </p>
 <p align="center">
-  <img src="screenshots/3.png"/>
+  <img src="screenshot_3.jpg"/>
 </p>
