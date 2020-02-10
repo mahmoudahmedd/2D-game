@@ -1,4 +1,7 @@
 # social-zombie-arena
+
+[![Join the chat at https://gitter.im/ZombieArena/community](https://badges.gitter.im/ZombieArena/community.svg)](https://gitter.im/ZombieArena/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A game in which social media site has to survive waves of Zombies in SFML C++
 
 Shortcut keys
